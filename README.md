@@ -6,10 +6,9 @@
 <p><sub>RECRUITER SIGNAL BRIEF · kabirgoswami</sub></p>
 <h1>Kabir Goswami</h1>
 <h2>Student Developer</h2>
-<p>🔭 I’m currently working on an AI Tool to integrate into the Godot Engine.<br>👯 I’m looking to collaborate on indie games.<br>🤝 I’m looking for help with WebDev projects.<br>🌱 I’m currently pursuing a **B.Tech in Artificial Intelligence with a Minor in Quantum Technologies and Computing**<br>💬 Ask me about Godot Documentation<br>⚡ Fun fact: Can't work on a project without GitHub issues or my Obsidian Vault.
-</strong></p>
+<h3>🔭 I’m currently working on an AI Tool to integrate into the <a href="godotengine.org">Godot Engine</a>.<br>👯 I’m looking to collaborate on indie games.<br>🤝 I’m looking for help with WebDev projects.<br>🌱 I’m currently pursuing a <b>B.Tech in Artificial Intelligence with a Minor in Quantum Technologies and Computing</b><br>💬 Modding on <a href="https://github.com/stanuwu/Sunrise">Destiny Sunrise</a><br>⚡ Fun fact: Can't work on a project without GitHub issues or my Obsidian Vault.
+</strong></h3>
 <p><sub>Based in Mumbai · Building at Mukesh Patel School of Technology Management and Engineering</sub></p>
-<p><a href="https://github.com/kabirgoswami">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/kabir-goswami-a6648b2a6/">Website</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 <picture>
