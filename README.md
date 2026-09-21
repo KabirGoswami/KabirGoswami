@@ -50,8 +50,6 @@
 </tr>
 </table>
 
-<p><sub>I'm really passionate about tech and am looking for a good career in it. Learning to make games as an entry into that field.</sub></p>
-
 <h2>Proof at a glance</h2>
 
 <table width="100%">
