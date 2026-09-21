@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI Tool to integrate into the Godot Engine.<br>👯 I’m looking to collaborate on indie games.<br>🤝 I’m looking for help with WebDev projects.<br>🌱 I’m currently pursuing a B.Tech in Artificial Intelligence with a Minor in Quantum Technologies and Computing<br>💬 Ask me about Godot Documentation<br>⚡ Fun fact: Can't work on a project without GitHub issues or my Obsidian Vault.
+🔭 I’m currently working on an AI Tool to integrate into the Godot Engine.<br>👯 I’m looking to collaborate on indie games.<br>🤝 I’m looking for help with WebDev projects.<br>🌱 I’m currently pursuing a **B.Tech in Artificial Intelligence with a Minor in Quantum Technologies and Computing**<br>💬 Ask me about Godot Documentation<br>⚡ Fun fact: Can't work on a project without GitHub issues or my Obsidian Vault.
 
 
 ## 🌐 Socials:
