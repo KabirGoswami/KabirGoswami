@@ -86,8 +86,17 @@
 <td width="20%" align="center"><strong>Shell</strong><br /><sub>5% of public code</sub></td>
 </tr>
 </table>
-
 <hr />
+
+<!--<h2>Selected work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kabirgoswami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97508436%3Fu%3D43bedf55a743206fba7e2b7d6de3595853d5958c%26v%3D4&repos=kabirgoswami%2FunstopCognitionGameJam%2Ckabirgoswami%2FDeepSphereAIWorkshop%2Ckabirgoswami%2FColab-Repo-Python-AI%2Ckabirgoswami%2FKabirGoswami&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kabirgoswami&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97508436%3Fu%3D43bedf55a743206fba7e2b7d6de3595853d5958c%26v%3D4&repos=kabirgoswami%2FunstopCognitionGameJam%2Ckabirgoswami%2FDeepSphereAIWorkshop%2Ckabirgoswami%2FColab-Repo-Python-AI%2Ckabirgoswami%2FKabirGoswami&v=recruiter-projects-1&mode=dark" width="100%" alt="Kabir Goswami selected projects" />
+</picture>-->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 🎮 Join me?
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
